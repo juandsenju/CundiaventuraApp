@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/mi_perfil"
+        android:icon="@drawable/usuario"
+        android:title="Mi Perfil" />
+
+    <item
+        android:id="@+id/intereses"
+        android:icon="@drawable/maleta"
+        android:title="Intereses" />
+
+    <item
+        android:id="@+id/itinerario"
+        android:icon="@drawable/nota"
+        android:title="Itinerario" />
+
+</menu>
